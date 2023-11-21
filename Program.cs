@@ -10,7 +10,9 @@ namespace guthubPubTestJo
             Console.WriteLine("******");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello beste curisten!");
+            Console.WriteLine('toehutnoehu');
             Console.ReadLine();
+            
         }
     }
 }
